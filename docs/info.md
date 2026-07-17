@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+a and b -> c
 
 ## How to test
 
-Explain how to use your project
+apply poewr if no smoke works
 
 ## External hardware
 
